@@ -1,2 +1,2 @@
 # gbooksdldr
-A python3 script for downloading books from Google Books URLs
+A Chrome Extension for downloading books from Google Books URLs
