@@ -1,7 +1,8 @@
 # gbooksdldr
 A Chrome Extension for downloading books from Google Books URLs.
+(working beta version)
 
-STILL UNDER WORK, as of 07-Jan-2020
+STILL UNDER WORK, as of 10-Jan-2020
 
 ## How to use?
 
